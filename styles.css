@@ -83,3 +83,11 @@ ul li img {
 ul li:hover .overlay-imagem-link{
     opacity: 1;
 }
+footer {
+    background-color: rgb(125, 5, 238);
+    padding: 8px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
